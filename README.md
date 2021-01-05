@@ -7,7 +7,7 @@ A Hanyu Pinyin font derived from Lato.
 
 本字体利用 OpenType 连写特性，用来输入和显示带音调的汉语拼音。基于 Lato 字体，并按照汉语拼音的标准样式对字形进行优化（如 a、g 显示为 ɑ、ɡ）。
 
-
+![sFlCP1.gif](https://s3.ax1x.com/2021/01/05/sFlCP1.gif)
 
 ## 输入方法
 1. 直接使用 Unicode 输入带音调的拼音字母，如 huān yíng shǐ yòng。
