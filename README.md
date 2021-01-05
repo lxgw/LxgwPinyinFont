@@ -17,6 +17,7 @@ A Hanyu Pinyin font derived from Lato.
 
 ## 注意事项
 1. 使用前需打开连写模式，如 Word 2016 需要在“字体”对话框内点击“高级”选项卡，将“OpenType 功能”里的“连字”选择为“历史和任意”或“全部”。
+2. 连写功能支持大写。如 HUA1N YI2NG SHI3 YO4NG → HUĀN YÍNG SHǏ YÒNG。
 
 ## 授权信息
 - 本字体基于 SIL Open Font License 1.1 授权条款免费公开，您可以：
